@@ -5,7 +5,7 @@
 2	всем	все	PRON	_	Animacy=Anim|Case=Dat|Number=Plur	_	_	_	words@n1989m#@n1989m#8.817#8.954
 3	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#8.954#9.091
 4	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#9.091#9.23
-5	Спасибо	спасибо	INTJ	_	_	_	_	_	words@n1989m#@n1989m#11.65#11.942
+5	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#11.65#11.942
 6	большое	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#11.942#12.234
 7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#12.234#12.526
 8	взаимно	взаимно	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#12.526#12.82
@@ -22,7 +22,7 @@
 19	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#38.902#39.128
 20	что	что	SCONJ	_	_	_	_	_	words@n1989m#@n1989m#39.128#39.354
 21	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#39.354#39.58
-22	эээ	эээ	NOUN	_	_	_	_	_	words@n1989m#@n1989m#39.58#39.806
+22	эээ	эээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#39.58#39.806
 23	на	на	ADP	_	_	_	_	_	words@n1989m#@n1989m#39.806#40.032
 24	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#40.032#40.258
 25	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#40.258#40.484
@@ -87,7 +87,7 @@
 84	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#50.866#51.09
 85	Поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#51.19#51.53
 86	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#51.53#51.87
-87	ааам	ааам	NOUN	_	_	_	_	_	words@n1989m#@n1989m#51.87#52.21
+87	ааам	ааам	INTJ	_	_	_	_	_	words@n1989m#@n1989m#51.87#52.21
 88	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#52.21#52.55
 89	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#52.55#52.894
 90	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#53.71#53.917
@@ -103,7 +103,7 @@
 100	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#55.78#55.987
 101	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#55.987#56.194
 102	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#56.194#56.401
-103	ааа	ааа	NOUN	_	_	_	_	_	words@n1989m#@n1989m#56.401#56.608
+103	ааа	ааа	INTJ	_	_	_	_	_	words@n1989m#@n1989m#56.401#56.608
 104	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#56.608#56.815
 105	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#56.815#57.03
 106	В	в	ADP	_	_	_	_	_	words@n1989m#@n1989m#57.664#57.842
@@ -115,7 +115,7 @@
 112	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#58.732#58.91
 113	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#58.91#59.088
 114	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#59.088#59.274
-115	Эээ	Эээ	PROPN	_	_	_	_	_	words@n1989m#@n1989m#59.67#59.773
+115	Эээ	эээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#59.67#59.773
 116	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#59.773#59.876
 117	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#59.876#59.98
 118	У	у	ADP	_	_	_	_	_	words@n1989m#@n1989m#60.05#60.187
@@ -158,7 +158,7 @@
 155	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#68.492#68.724
 156	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#68.724#68.956
 157	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#68.956#69.19
-158	Эээ	Эээ	PROPN	_	_	_	_	_	words@n1989m#@n1989m#69.58#69.781
+158	Эээ	эээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#69.58#69.781
 159	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#69.781#69.982
 160	в	в	ADP	_	_	_	_	_	words@n1989m#@n1989m#69.982#70.183
 161	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@n1989m#@n1989m#70.183#70.384
@@ -193,7 +193,7 @@
 190	что	что	PRON	_	Case=Acc	_	_	_	words@n1989m#@n1989m#81.228#81.419
 191	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#81.419#81.61
 192	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#81.61#81.805
-193	Эээ	Эээ	PROPN	_	_	_	_	_	words@n1989m#@n1989m#81.94#82.19
+193	Эээ	эээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#81.94#82.19
 194	да	да	PART	_	_	_	_	_	words@n1989m#@n1989m#82.19#82.44
 195	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#82.44#82.69
 196	наверное	наверное	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#82.69#82.94
@@ -254,7 +254,7 @@
 251	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#94.77#94.98
 252	Поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#95.005#95.221
 253	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#95.221#95.583
-254	эээ	эээ	X	_	_	_	_	_	words@n1989m#@n1989m#95.583#96.104
+254	эээ	эээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#95.583#96.104
 255	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#96.104#96.201
 256	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#96.201#96.298
 257	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@n1989m#@n1989m#96.44#96.62
@@ -482,7 +482,7 @@
 479	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#166.822#167.038
 480	что	что	SCONJ	_	_	_	_	_	words@n1989m#@n1989m#167.038#167.254
 481	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@n1989m#@n1989m#167.254#167.47
-482	бы	бы	AUX	_	_	_	_	_	words@n1989m#@n1989m#167.47#167.686
+482	бы	бы	PART	_	_	_	_	_	words@n1989m#@n1989m#167.47#167.686
 483	с	с	ADP	_	_	_	_	_	words@n1989m#@n1989m#167.686#167.902
 484	удовольствием	удовольствие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#167.902#168.118
 485	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@n1989m#@n1989m#168.118#168.334
@@ -557,7 +557,7 @@
 554	потому	потому	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#195.612#195.846
 555	что	что	SCONJ	_	_	_	_	_	words@n1989m#@n1989m#195.846#196.08
 556	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#196.08#196.57
-557	а	а	X	_	_	_	_	_	words@n1989m#@n1989m#196.57#196.72
+557	а	а	INTJ	_	_	_	_	_	words@n1989m#@n1989m#196.57#196.72
 558	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#196.72#196.87
 559	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#196.87#197.02
 560	Когда	когда	SCONJ	_	_	_	_	_	words@n1989m#@n1989m#197.08#197.362
@@ -590,7 +590,7 @@
 587	с	с	ADP	_	_	_	_	_	words@n1989m#@n1989m#206.781#207.049
 588	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	_	_	_	words@n1989m#@n1989m#207.049#207.317
 589	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#207.317#207.585
-590	ээ	ээ	X	_	_	_	_	_	words@n1989m#@n1989m#207.585#207.853
+590	ээ	ээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#207.585#207.853
 591	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#207.853#208.121
 592	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#208.121#208.39
 593	Как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#209.49#209.654
@@ -715,7 +715,7 @@
 712	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#250.265#250.538
 713	как	как	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#250.538#250.811
 714	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@n1989m#@n1989m#250.811#251.084
-715	ззз	ззз	X	_	_	_	_	_	words@n1989m#@n1989m#251.084#251.357
+715	ззз	ззз	INTJ	_	_	_	_	_	words@n1989m#@n1989m#251.084#251.357
 716	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#251.357#251.63
 717	ну	ну	PART	_	_	_	_	_	words@n1989m#@n1989m#251.63#251.903
 718	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#251.903#252.176
@@ -746,7 +746,7 @@
 743	ракурса	ракурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@n1989m#@n1989m#260.11#260.298
 744	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#260.298#260.486
 745	отлично	отлично	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#260.486#260.674
-746	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#260.674#260.862
+746	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@n1989m#@n1989m#260.674#260.862
 747	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#260.862#261.05
 748	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#261.05#261.24
 749	Можно	можно	ADV	_	Degree=Pos	_	_	_	words@n1989m#@n1989m#261.285#261.734
@@ -796,7 +796,7 @@
 793	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@n1989m#@n1989m#282.668#282.891
 794	научился	научиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@n1989m#@n1989m#282.891#283.114
 795	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#283.114#283.337
-796	аа	аа	X	_	_	_	_	_	words@n1989m#@n1989m#283.337#283.56
+796	аа	аа	INTJ	_	_	_	_	_	words@n1989m#@n1989m#283.337#283.56
 797	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#283.56#283.783
 798	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#283.783#284.01
 799	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@n1989m#@n1989m#284.24#284.583
@@ -825,7 +825,7 @@
 822	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@n1989m#@n1989m#292.129#292.512
 823	за	за	ADP	_	_	_	_	_	words@n1989m#@n1989m#292.512#292.895
 824	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#292.895#293.278
-825	ээ	ээ	X	_	_	_	_	_	words@n1989m#@n1989m#293.278#293.661
+825	ээ	ээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#293.278#293.661
 826	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#293.661#294.044
 827	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#294.044#294.43
 828	Знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@n1989m#@n1989m#294.76#295.014
@@ -835,7 +835,7 @@
 832	какой-то	какой-то	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@n1989m#@n1989m#295.776#296.03
 833	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#296.03#296.284
 834	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#296.284#296.54
-835	Ээ	ээ	PROPN	_	_	_	_	_	words@n1989m#@n1989m#297.42#297.695
+835	Ээ	ээ	INTJ	_	_	_	_	_	words@n1989m#@n1989m#297.42#297.695
 836	/	/	PUNCT	_	_	_	_	_	words@n1989m#@n1989m#297.695#297.97
 837	каменной	каменный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@n1989m#@n1989m#297.97#298.245
 838	стеной	стена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@n1989m#@n1989m#298.245#298.52
@@ -951,7 +951,7 @@
 948	озвучу	озвучить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#17.589#18.204
 949	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#18.204#18.289
 950	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#18.289#18.375
-951	эээ	эээ	X	_	_	_	_	_	words@a0000f#@a0000f#19.23#19.536
+951	эээ	эээ	INTJ	_	_	_	_	_	words@a0000f#@a0000f#19.23#19.536
 952	на	на	ADP	_	_	_	_	_	words@a0000f#@a0000f#19.536#19.842
 953	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#19.842#20.148
 954	встрече	встреча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@a0000f#@a0000f#20.148#20.869
@@ -1086,7 +1086,7 @@
 1083	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@a0000f#@a0000f#122.813#122.914
 1084	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@a0000f#@a0000f#122.914#123.015
 1085	#нрзб#	#нрзб#	X	_	_	_	_	_	words@a0000f#@a0000f#123.015#123.116
-1086	всё	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@a0000f#@a0000f#123.116#123.217
+1086	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@a0000f#@a0000f#123.116#123.217
 1087	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@a0000f#@a0000f#123.217#123.318
 1088	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#123.318#123.419
 1089	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#123.419#123.52
@@ -1114,7 +1114,7 @@
 1111	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#182.76#183.06
 1112	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#183.06#183.36
 1113	Ээ	ээ	INTJ	_	_	_	_	_	words@a0000f#@a0000f#188.795#189.038
-1114	аа	аа	X	_	_	_	_	_	words@a0000f#@a0000f#189.038#189.281
+1114	аа	аа	INTJ	_	_	_	_	_	words@a0000f#@a0000f#189.038#189.281
 1115	раскажите	расказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#189.281#189.524
 1116	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	words@a0000f#@a0000f#189.524#189.767
 1117	как	как	ADV	_	Degree=Pos	_	_	_	words@a0000f#@a0000f#189.767#190.01
@@ -1217,7 +1217,7 @@
 1214	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	words@a0000f#@a0000f#274.648#274.79
 1215	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#274.79#274.932
 1216	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#274.932#275.074
-1217	аа	аа	X	_	_	_	_	_	words@a0000f#@a0000f#275.074#275.216
+1217	аа	аа	INTJ	_	_	_	_	_	words@a0000f#@a0000f#275.074#275.216
 1218	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#275.216#275.358
 1219	учились	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@a0000f#@a0000f#275.358#275.5
 1220	?	?	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#275.5#275.642
