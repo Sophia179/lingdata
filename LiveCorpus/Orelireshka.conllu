@@ -537,7 +537,7 @@
 534	для	для	ADP	_	_	_	_	_	words@ns1989m#@ns1989m#184.422#184.649
 535	кастинга	кастинг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ns1989m#@ns1989m#184.649#184.876
 536	дждл	дждл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ns1989m#@ns1989m#184.876#185.103
-537	длл	длл	X	_	Foreign=Yes	_	_	_	words@ns1989m#@ns1989m#185.103#185.33
+537	длл	длл	NOUN	_	Foreign=Yes	_	_	_	words@ns1989m#@ns1989m#185.103#185.33
 538	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#185.33#185.557
 539	достаточно	достаточный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ns1989m#@ns1989m#185.557#185.784
 540	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ns1989m#@ns1989m#185.784#186.011
@@ -645,7 +645,7 @@
 642	общаться	общаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@ns1989m#@ns1989m#219.997#220.204
 643	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#220.204#220.411
 644	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#220.411#220.62
-645	Щас	щас	PROPN	_	Foreign=Yes	_	_	_	words@ns1989m#@ns1989m#231.125#231.23
+645	Щас	щас	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ns1989m#@ns1989m#231.125#231.23
 646	ка...	ка...	X	_	_	_	_	_	words@ns1989m#@ns1989m#231.23#231.335
 647	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#231.335#231.44
 648	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#231.44#231.545
@@ -735,7 +735,7 @@
 732	ракурса	ракурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ns1989m#@ns1989m#256.14#256.35
 733	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#256.35#256.56
 734	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#256.56#256.77
-735	Иии	Иия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ns1989m#@ns1989m#257.62#257.856
+735	И	и	CCONJ	_	_	_	_	_	words@ns1989m#@ns1989m#257.62#257.856
 736	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#257.856#258.092
 737	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#258.092#258.33
 738	Понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ns1989m#@ns1989m#259.17#259.358
@@ -792,7 +792,7 @@
 789	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	words@ns1989m#@ns1989m#281.776#281.999
 790	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ns1989m#@ns1989m#281.999#282.222
 791	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#282.222#282.445
-792	что	что	PRON	_	Case=Acc	_	_	_	words@ns1989m#@ns1989m#282.445#282.668
+792	что	что	SCONJ	_	Case=Acc	_	_	_	words@ns1989m#@ns1989m#282.445#282.668
 793	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ns1989m#@ns1989m#282.668#282.891
 794	научился	научиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ns1989m#@ns1989m#282.891#283.114
 795	/	/	PUNCT	_	_	_	_	_	words@ns1989m#@ns1989m#283.114#283.337
@@ -968,12 +968,12 @@
 965	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@a0000f#@a0000f#24.894#25.117
 966	на	на	ADP	_	_	_	_	_	words@a0000f#@a0000f#25.117#25.34
 967	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@a0000f#@a0000f#25.34#25.563
-968	вернёшься	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@a0000f#@a0000f#25.563#25.786
+968	вернёшься	вернёться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@a0000f#@a0000f#25.563#25.786
 969	ли	ли	PART	_	_	_	_	_	words@a0000f#@a0000f#25.786#26.009
 970	в	в	ADP	_	_	_	_	_	words@a0000f#@a0000f#26.009#26.232
 971	Орёл	орел	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@a0000f#@a0000f#26.232#26.455
 972	и	и	CCONJ	_	_	_	_	_	words@a0000f#@a0000f#26.455#26.678
-973	решка	решка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@a0000f#@a0000f#26.678#26.901
+973	решка	решка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@a0000f#@a0000f#26.678#26.901
 974	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#26.901#27.124
 975	однозначно	однозначно	ADV	_	Degree=Pos	_	_	_	words@a0000f#@a0000f#27.124#27.347
 976	нет	нет	PART	_	_	_	_	_	words@a0000f#@a0000f#27.347#27.57
@@ -1011,7 +1011,7 @@
 1008	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#35.696#35.977
 1009	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#35.977#36.27
 1010	А	а	CCONJ	_	_	_	_	_	words@a0000f#@a0000f#74.93#75.117
-1011	по...	по...	X	_	Foreign=Yes	_	_	_	words@a0000f#@a0000f#75.117#75.304
+1011	по...	по...	NOUN	_	Foreign=Yes	_	_	_	words@a0000f#@a0000f#75.117#75.304
 1012	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#75.304#75.491
 1013	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#75.491#75.68
 1014	А	а	CCONJ	_	_	_	_	_	words@a0000f#@a0000f#76.12#76.333
@@ -1113,7 +1113,7 @@
 1110	?	?	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#182.46#182.76
 1111	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#182.76#183.06
 1112	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#183.06#183.36
-1113	Ээ	ээ	INTJ	_	_	_	_	_	words@a0000f#@a0000f#188.795#189.038
+1113	Ээ	ээ	PROPN	_	_	_	_	_	words@a0000f#@a0000f#188.795#189.038
 1114	аа	аа	X	_	Foreign=Yes	_	_	_	words@a0000f#@a0000f#189.038#189.281
 1115	раскажите	расказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#189.281#189.524
 1116	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	words@a0000f#@a0000f#189.524#189.767
@@ -1217,7 +1217,7 @@
 1214	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	words@a0000f#@a0000f#274.648#274.79
 1215	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@a0000f#@a0000f#274.79#274.932
 1216	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#274.932#275.074
-1217	аа	аа	X	_	_	_	_	_	words@a0000f#@a0000f#275.074#275.216
+1217	аа	аа	X	_	Foreign=Yes	_	_	_	words@a0000f#@a0000f#275.074#275.216
 1218	/	/	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#275.216#275.358
 1219	учились	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@a0000f#@a0000f#275.358#275.5
 1220	?	?	PUNCT	_	_	_	_	_	words@a0000f#@a0000f#275.5#275.642
